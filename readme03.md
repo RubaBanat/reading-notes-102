@@ -11,10 +11,11 @@
 
 ## Using Git and GitHub
 
-# Git is a command tool to used to communicate with GitHub 
+# git is a command tool to used to communicate with GitHub 
 # Here are some steps :
-+ Git clone (paste the link from gihub)
-+ gitt add
++ git clone (paste the link from gihub)
++ git status
++ git add .
 + git commit -m 'anything'
 + git push origin main
 
