@@ -9,7 +9,7 @@
  
 ***1-View challenges as opportunities.*** 
 
-***+ Try different learning tactics.***
+***2-Try different learning tactics.***
  
  ***3-Replace the word “failing” with the word “learning.”***
  
