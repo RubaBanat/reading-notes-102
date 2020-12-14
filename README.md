@@ -7,11 +7,11 @@
  ## how to keep myself in a growth mindset :
 
  
-+View challenges as opportunities. 
++ View challenges as opportunities. 
 
-+Try different learning tactics.
++ Try different learning tactics.
  
-+Replace the word “failing” with the word “learning.”
++ Replace the word “failing” with the word “learning.”
  
  This is Ruba Banat *an old economist and new software developer*
  
