@@ -13,6 +13,6 @@
  
  ***3-Replace the word “failing” with the word “learning.”***
  
- This is Ruba Banat *an old economist and new software developer coming*
+ This is Ruba Banat *an old economist and new software developer *
  
  My [GitHub profile](https://github.com/RubaBanat)
