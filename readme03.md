@@ -12,7 +12,7 @@
 ## Using Git and GitHub
 
 # Git is a command tool to used to communicate with GitHub 
-# Here its some steps :
+# Here are some steps :
 + Git clone (paste the link from gihub)
 + gitt add
 + git commit -m 'anything'
