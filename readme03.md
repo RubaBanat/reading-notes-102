@@ -13,7 +13,7 @@
 
 # git is a command tool to used to communicate with GitHub 
 # Here are some steps :
-+ git clone (paste the link from gihub)
++ git clone (paste the link from github)
 + git status
 + git add .
 + git commit -m 'anything'
