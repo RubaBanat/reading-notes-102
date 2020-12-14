@@ -13,10 +13,10 @@
 
 # Git is a command tool to used to communicate with GitHub 
 # Here its some steps :
-+Git clone (paste the link from gihub)
-+gitt add
-+git commit -m 'anything'
-+git push origin main
++ Git clone (paste the link from gihub)
++ gitt add
++ git commit -m 'anything'
++ git push origin main
 
 ## Also you can use these two information to you from what we learned : 
 
