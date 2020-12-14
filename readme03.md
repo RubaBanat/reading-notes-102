@@ -3,11 +3,11 @@
 
 ## In this class we had learned how to deal with folders in our laptops using Terminal 
 
-+you can find any folder by typing (( **cd** )) the name of the folder 
-+you can list all contents by tuping (( **ls** ))
-+you can creat new folder by tyiping (( **mkdir** )) and whatever name you want 
-+you can creat new files by tyipng (( **touch** )) e.g touch index.html
-+to go back to the previous folder you can use (( **cd ..** ))
++ you can find any folder by typing (( **cd** )) the name of the folder 
++ you can list all contents by tuping (( **ls** ))
++ you can creat new folder by tyiping (( **mkdir** )) and whatever name you want 
++ you can creat new files by tyipng (( **touch** )) e.g touch index.html
++ to go back to the previous folder you can use (( **cd ..** ))
 
 ## Using Git and GitHub
 
